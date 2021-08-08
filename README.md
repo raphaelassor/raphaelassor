@@ -16,9 +16,8 @@ I am a Full-Stack Web Developer and i like to develop in the MERN Stack, althoug
   </ul>
  </li>
 </ul>
-- My main skills are : 
 
-- 📫 How to reach me: 
+📫 How to reach me: 
 - 🕴️ [LinkedIn](https://www.linkedin.com/in/raphael-assor-749602202/)
 - 📧 Raphaelassor@rabcommerce.com 
 
