@@ -1,6 +1,6 @@
 ### Hi there , I'm Raphael👋
 
-I am a Full-Stack Web Developer and i like to develop in the MERN Stack, although i enjoy coding in Vue as well. 
+I am a Full-Stack Web Developer and i like to develop in the MERN Stack, although i continue to evolve and develop in other technlogies as well. 
 - 🔭 I love learning and developing myself daily
 - 🌱 I’m currently learning to develop apps with microservices and CI/CD tools (Docker and Kubernetes)
 - 👯 I’m looking to collaborate on projects that are challenging and add value to the ecosystem
