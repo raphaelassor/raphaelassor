@@ -20,8 +20,3 @@ I am a Full-Stack Web Developer and i like to develop in the MERN Stack, althoug
 📫 How to reach me: 
 - 🕴️ [LinkedIn](https://www.linkedin.com/in/raphael-assor-749602202/)
 - 📧 Raphaelassor@rabcommerce.com 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelassor)](https://github.com/raphaelassor/github-readme-stats)
-
-[![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphaelassor&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/raphaelassor/github-readme-stats)
