@@ -1,9 +1,7 @@
-### Hi there , I'm Raphael👋
+### Raphael Assor 
 
-I am a Full-Stack Web Developer and i like to develop in the MERN Stack, although i continue to evolve and develop in other technlogies as well. 
-- 🔭 I love learning and developing myself daily
-- 🌱 I’m currently learning to develop apps with microservices and CI/CD tools (Docker and Kubernetes)
-- 👯 I’m looking to collaborate on projects that are challenging and add value to the ecosystem
+I am a Software Developer and i specialiaze in the MERN Stack, although i continue to evolve and develop in other technlogies as well. 
+
  <ul>
 <li>My main skills are:
  <ul>
@@ -17,6 +15,7 @@ I am a Full-Stack Web Developer and i like to develop in the MERN Stack, althoug
  </li>
 </ul>
 
+Currently i am working on my puthon skills ao if you have some cool projects to collaberate on, feel free to contact me. 
 📫 How to reach me: 
 - 🕴️ [LinkedIn](https://www.linkedin.com/in/raphael-assor-749602202/)
 - 📧 Raphaelassor@rabcommerce.com 
